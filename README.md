@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me
 
 Hi, I'm Navid Nadji, a **cognitive neuroscience researcher** with a focus on **computational neuroscience, AI-driven brain research, and neuromarketing**. I'm pursuing a Master's in **Cognitive Neuroscience** at the University of Padova, where I use **machine learning** for experimental design and data analysis.
 I have hands-on experience in **EEG, ERP, bio-signals (EDA, SCR, EMG, ECG), and eye-tracking** signals analysis.
